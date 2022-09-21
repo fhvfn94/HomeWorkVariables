@@ -1,5 +1,5 @@
 public class taskTwo {
-    public static void tastwo(String[] args) {
+    public static void main(String[] args) {
         var dog = 8;
         var cat = 3.6;
         var paper = 763789;
